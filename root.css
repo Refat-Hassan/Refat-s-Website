@@ -1,0 +1,15 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+:root{
+    --backround-color:#ffffff;
+    --fornt-primary-color: #1E1E1E;
+    --primery-color: #F48E28;
+}
+.continer {
+    padding: 0px 90px;
+}
+.services {
+    margin-top: 115vh;
+    padding: 0px -90px;
+    /* margin-left: -60px; */
+}
